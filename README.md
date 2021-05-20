@@ -1,0 +1,3 @@
+# Hastane-Projesi
+
+Hastane Otomasyonu

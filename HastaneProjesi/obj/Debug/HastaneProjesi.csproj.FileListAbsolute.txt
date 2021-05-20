@@ -1,0 +1,68 @@
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.exe.config
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.exe
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.pdb
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csprojAssemblyReference.cache
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmBilgiDuzenle.resources
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmBrans.resources
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDoktorBilgiDuzenle.resources
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDoktorDetay.resources
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDoktorGiris.resources
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDoktorPaneli.resources
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDuyurular.resources
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Form1.resources
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmHastaDetay.resources
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmHastaGiris.resources
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmRandevuListesi.resources
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmSekreterDetay.resources
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmSekreterGiris.resources
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Properties.Resources.resources
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.GenerateResource.cache
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.exe
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.pdb
+C:\Users\tr\Desktop\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmHastaKayıt.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.exe.config
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.exe
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.pdb
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csprojAssemblyReference.cache
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmBilgiDuzenle.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmBrans.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDoktorBilgiDuzenle.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDoktorDetay.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDoktorGiris.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDoktorPaneli.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDuyurular.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Form1.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmHastaDetay.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmHastaGiris.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmHastaKayıt.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmRandevuListesi.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmSekreterDetay.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmSekreterGiris.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Properties.Resources.resources
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.GenerateResource.cache
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.CoreCompileInputs.cache
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.exe
+E:\Dersler\visual c#\9)Veritabanı SQL\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.pdb
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.exe.config
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.exe
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.pdb
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csprojAssemblyReference.cache
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmBilgiDuzenle.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmBrans.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDoktorBilgiDuzenle.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDoktorDetay.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDoktorGiris.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDoktorPaneli.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmDuyurular.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Form1.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmHastaDetay.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmHastaGiris.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmHastaKayıt.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmRandevuListesi.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmSekreterDetay.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FrmSekreterGiris.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Properties.Resources.resources
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.GenerateResource.cache
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.exe
+C:\Users\Casper\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.pdb
